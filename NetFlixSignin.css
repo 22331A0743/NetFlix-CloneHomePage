@@ -1,0 +1,108 @@
+.Forsignin{
+    border:3px solid black;
+    height:40;
+}
+body{
+    background-image:url(RecentNetflix.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color:red;
+    font-size:30px;
+    margin-left: 40px;
+}
+.signinbox{
+
+    height:600px;
+    width:400px;
+    color:White;
+ background-color: rgba(0, 0, 0, 0.503);
+     position: relative;
+     left:500px;
+     padding:60px;
+     bottom:50px;
+     top:20px;
+     
+}
+.SignIn{
+  font-size:2em;
+}
+#username{
+      height:70px;
+      width:400px;
+      background-color:rgba(0, 0, 0, 0.545);
+      border:1px solid white;
+}
+::placeholder{
+    color:white;
+    padding-left: 25px;
+    font-size:20px;
+}
+#password{
+    background-color: rgba(0, 0, 0, 0.538);
+    height:70px;
+    width:400px;
+    position:relative;
+    top:30px;
+    border:1px solid white;
+}
+.enteringbutton{
+    position: relative;
+    top:60px;
+    left:0px;
+    height:60px;
+    width:400px;
+    font-size:20px;
+    background-color:red;
+    color:white;
+}
+.enteringbutton2{
+    position: relative;
+    top:60px;
+    left:0px;
+    margin-bottom:40px;
+    height:60px;
+    width:400px;
+    font-size:20px;
+    background-color:rgba(255, 255, 255, 0.332);
+    color:white;
+}
+#or{
+    color:white;
+    position: relative;
+    left:180px;
+    top:55px;
+    font-size:1em;
+   
+}
+.UserDetails{
+    
+    height:390px
+}
+.signinbox>P{
+    position: relative;
+    COLOR:red;
+    bottom:40px;
+   
+
+}
+.forgotpassword{
+    position: relative;
+    left:150px;
+}
+.belowsignin{
+    display: block;
+    position:relative;
+    top:80px;
+    left:105px;
+    color:white;
+
+}
+span{
+    color:white;
+    text-transform: capitalize;
+}
+.anchor{
+    text-decoration: none;
+}

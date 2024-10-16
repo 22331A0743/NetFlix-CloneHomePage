@@ -1,0 +1,113 @@
+body{
+    background-image: url("RecentNetflix.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+header{
+    margin-right:100px;
+    position:relative;
+    left:150px
+  
+}
+.navbaritem{
+    color:darkred;
+    margin-right: 100px;
+    font-size:2em;
+    padding-left:50px;
+    text-decoration:none;
+    text-transform: capitalize;
+    display:inline-block;
+}
+
+span{
+    color:yellow;
+    text-decoration: underline;
+}
+header{
+}
+.language{
+    text-decoration:none;
+    display:inline-block;
+    font-size:3rem;
+    border:5px solid black;
+}
+.navbar{
+    font-size:3rem;
+    text-decoration: none;
+    margin-right:200px;
+}
+#webname{
+    color:red;
+    font-size:60px;
+}
+#languagetype{
+    font-size:20px;
+    position:relative;
+    left:550px;
+    height:40px;
+    width:102px;
+    background-color:black;
+    color:white;
+    border-radius: 10%;
+    bottom:10px;
+}
+#signin{
+    color:white;
+    border:2px solid black;
+    background-color:red;
+    border-radius:10%;
+    font-size:24px;;
+    position: relative;
+    left:360px;
+    bottom:10px;
+}
+.motive{
+    color:white;
+    position: relative;
+   background-color:rgba(0, 0, 0, 0.544);
+    padding-top:25px;
+    padding-left:140px;
+    margin-top:250px;
+    margin-left:150px;
+    margin-right:200px;
+    position: relative;
+    right:120px;
+   font-size:20px;;
+   bottom:200px;
+   left:40px;
+}
+.input{
+    height:25px;
+    width:550px;
+    background-color:black;
+    display:inline-block;
+    text-align:left;
+    margin-bottom: 300px;
+    margin-left:200px;
+    position: relative;
+    bottom:200px;
+    left:120px;
+    color:white;
+    font-size:25px;
+    padding:25px;
+}
+::placeholder{
+    color:white;
+    font-size:25px;
+    padding:25px;
+}
+.container>button{
+   position: relative;
+   bottom:190px;
+   left:160px;
+   color:white;
+   background-color:red;
+   height:45px;
+   width:200px;
+   font-size:30px;
+}
+.container{
+    position: relative;
+
+}
